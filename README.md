@@ -1,2 +1,2 @@
-# Geolocation
-This Project is a Test for Sonarqube integration into Jenkins
+# patients_geolocation
+Project to locate patients in order to facilitate their home appointments by medical specialists
